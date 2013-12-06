@@ -1,4 +1,4 @@
 first-test-repo
 ===============
 
-Creating my first repo on GIThub
+Creating my first repo on GitHub
